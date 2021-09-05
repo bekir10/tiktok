@@ -6,4 +6,3 @@ Express
 MongoDB
 ReactJs
 
-link to website https://tiktok-6f0a6.web.app/
